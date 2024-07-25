@@ -285,16 +285,20 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     max-width: 500px;
     height: 468px;
 }
-.about-list-icon{
+.about-list-icon {
     display: flex;
-    justify-content: center;
-    align-items: center;
     position: absolute;
-    bottom: 0;
-    left: 0;
+    bottom: -132px;
+    left: 10px;
     width: 109%;
     height: 90px;
+    object-fit: 10;
     background: #1f2c6c;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-evenly;
+    object-fit: scale-down;
 }
 /*.ab-list-icon */
 .about-list-icon ul {
