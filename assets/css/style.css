@@ -950,6 +950,47 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     display: flex;
     align-items: center;
 }
+
+/* Mobile Navigation Fixes */
+@media (max-width: 991px) {
+    .myimg {
+        position: relative;
+        left: 0;
+        margin-top: 10px;
+        margin-left: 15px;
+    }
+    .navbar-header {
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        margin-top: 10px;
+    }
+}
+
+/* Container padding for mobile */
+@media (max-width: 767px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .projects .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+/* Portfolio section mobile fixes */
+@media (max-width: 767px) {
+    .portfolio-item {
+        margin-bottom: 15px;
+    }
+    .portfolio-item .overlay {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
 .portfolio-item {
 	position: relative;
 	margin-bottom: 30px;
