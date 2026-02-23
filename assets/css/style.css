@@ -1044,12 +1044,12 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 .projects .section-heading h2 {
-    font-size: 36px;
-    font-weight: 700;
-    color: #2c3e50;
+    font-size: 24px;
+    font-weight: 600;
     text-transform: uppercase;
     position: relative;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #e5ebf2;
 }
 
 .projects .section-heading h2:after {
