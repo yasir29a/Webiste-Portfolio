@@ -1,0 +1,67 @@
+{
+  "portfolioLinks": [
+    {
+      "category": "Business & Services",
+      "items": [
+        { "name": "SOS Cleaning & Restoration", "url": "https://soscleaningandrestoration.com/" },
+        { "name": "Summer House Outdoors", "url": "https://www.summerhouseoutdoors.com/" },
+        { "name": "HomeInstead Home Care", "url": "https://www.homeinstead.com/home-care/" },
+        { "name": "Winters Cattle Ranch", "url": "https://winterscattleranch.com/" },
+        { "name": "Right Move Houston", "url": "https://www.rightmoveshouston.com/" },
+        { "name": "We Buy Houses Orlando Florida", "url": "https://webuyhousesorlandoflorida.com/" },
+        { "name": "H&H Spartanburg Roofing", "url": "https://hhspartanburgroofing.com/" },
+        { "name": "Armor House Painting", "url": "https://armorhousepainting.com/" },
+        { "name": "Next Level RVA", "url": "https://nextlevelrva.com/" },
+        { "name": "Color Trends Co", "url": "https://www.colortrendsco.com/" },
+        { "name": "Above & Beyond Chimney Service", "url": "https://aboveandbeyondchimneyservice.com/" },
+        { "name": "Tornado Pest Control", "url": "https://tornadopestcontrolllc.com/" },
+        { "name": "GE Specialists", "url": "https://gespecialists.com/" },
+        { "name": "Oxford Architects", "url": "https://oxfordarchitectslc.com/" }
+      ]
+    },
+    {
+      "category": "Beauty & Wellness",
+      "items": [
+        { "name": "Strokes of Genius Microblading", "url": "https://strokesofgeniusmicroblading.com/" },
+        { "name": "Matchmaking For Me", "url": "https://matchmakingforme.com/" },
+        { "name": "Proteith", "url": "https://proteith.com/" },
+        { "name": "Nisa Fit Apparel", "url": "https://www.nisafitapparel.com/" },
+        { "name": "Feelingood Tees", "url": "https://www.feelingoodtees.com/" }
+      ]
+    },
+    {
+      "category": "Sports & Fitness",
+      "items": [
+        { "name": "Championship Martial Arts", "url": "https://championshipmartialartsllc.com/pelkeyandsons1/" },
+        { "name": "Reach Basketball", "url": "https://www.reachbasketball.com/" },
+        { "name": "Bronx Basketball", "url": "https://bronxbasketball.com/" }
+      ]
+    },
+    {
+      "category": "Health & Medical",
+      "items": [
+        { "name": "EMS Pro", "url": "https://emspro.org/" },
+        { "name": "Texas Medical Marijuana Doctors", "url": "https://texasmedicalmarijuanadoctors.com/" },
+        { "name": "OBINS", "url": "https://obins.com/" }
+      ]
+    },
+    {
+      "category": "Retail & E-Commerce",
+      "items": [
+        { "name": "Dhakai Boutique By Shoma", "url": "https://www.dhakaiboutiquebyshoma.com/" },
+        { "name": "Claudia & Company", "url": "https://claudiaandcompany.com/" },
+        { "name": "Anyway Air Cushion", "url": "https://anywayaircushion.com/" },
+        { "name": "Traptresses", "url": "https://traptresses.shop/" },
+        { "name": "Ashley Bridal", "url": "https://ashley-bridal-2.myshopify.com/" },
+        { "name": "Sped Solutions Uncomplicated", "url": "https://spedsolutionsuncomplicated.com/" }
+      ]
+    },
+    {
+      "category": "Food & Lifestyle",
+      "items": [
+        { "name": "Saruzzo's NY Pizzeria", "url": "https://saruzzosnypizzeria.com/" },
+        { "name": "O'Malley Brown Authors", "url": "https://omalleybrownauthors.com/" }
+      ]
+    }
+  ]
+}
